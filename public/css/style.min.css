@@ -1,0 +1,11 @@
+:root {
+    --color-primary: #ffffff;
+    --color-secondary: #003165;
+    --color-tertiary: #04B2D9;
+}
+
+header {
+    width: 100%;
+    padding: 10px 15px;
+    background-color: var(--color-secondary);
+}
